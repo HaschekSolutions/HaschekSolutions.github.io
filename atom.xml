@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.haschek.solutions/"/>
-  <updated>2016-06-19T21:33:09.494Z</updated>
+  <updated>2016-06-19T21:35:49.035Z</updated>
   <id>http://blog.haschek.solutions/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://blog.haschek.solutions/2016/06/19/austrian_passwords/"/>
     <id>http://blog.haschek.solutions/2016/06/19/austrian_passwords/</id>
     <published>2016-06-19T08:17:40.000Z</published>
-    <updated>2016-06-19T21:33:09.494Z</updated>
+    <updated>2016-06-19T21:35:49.035Z</updated>
     
     <content type="html">&lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, the published hashes can be cracked with ease by anyone with an &lt;a href=&quot;https://hashcat.net/oclhashcat/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hashcat&lt;/a&gt; installation.&lt;/p&gt;
 &lt;h1 id=&quot;Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot;&gt;&lt;a href=&quot;#Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot; class=&quot;headerlink&quot; title=&quot;Check if your email address was in the leak: LinkedIn LeakChecker&quot;&gt;&lt;/a&gt;Check if your email address was in the leak: &lt;a href=&quot;https://linkedincheck.haschek.solutions/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;LinkedIn LeakChecker&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;What does the hack mean for Austrians and their passwords?&lt;/p&gt;
@@ -29,7 +29,7 @@
 &lt;li&gt;In the datadump there were &lt;code&gt;76.344&lt;/code&gt; sha1-hashed &lt;strong&gt;passwords&lt;/strong&gt; from those accounts&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;42.980&lt;/code&gt; (67%) of these passwords can be &lt;strong&gt;cracked in under 1 hour&lt;/strong&gt; on consumer hardware&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;1.011&lt;/code&gt; accounts were &lt;strong&gt;government accounts&lt;/strong&gt; (ending with gv.at). This includes military&lt;/li&gt;
-&lt;li&gt;Almost &lt;code&gt;20.000&lt;/code&gt; of the compromised accounts were &lt;strong&gt;GMX&lt;/strong&gt; addresses&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;13.239&lt;/code&gt; of the compromised accounts were &lt;strong&gt;GMX&lt;/strong&gt; addresses&lt;/li&gt;
 &lt;li&gt;LinkedIn didn’t salt the passwords. This fact makes this leak much more dangerous&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;Let’s-look-a-little-closer&quot;&gt;&lt;a href=&quot;#Let’s-look-a-little-closer&quot; class=&quot;headerlink&quot; title=&quot;Let’s look a little closer&quot;&gt;&lt;/a&gt;Let’s look a little closer&lt;/h2&gt;&lt;p&gt;These (partial) words and numbers are in most passwords&lt;/p&gt;
