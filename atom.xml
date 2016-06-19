@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.haschek.solutions/"/>
-  <updated>2016-05-22T22:30:59.000Z</updated>
+  <updated>2016-06-19T21:26:07.845Z</updated>
   <id>http://blog.haschek.solutions/</id>
   
   <author>
@@ -16,29 +16,54 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://blog.haschek.solutions/2016/05/23/hello-world/"/>
-    <id>http://blog.haschek.solutions/2016/05/23/hello-world/</id>
-    <published>2016-05-23T03:59:03.430Z</published>
-    <updated>2016-05-22T22:30:59.000Z</updated>
+    <title>Austrian password mentality</title>
+    <link href="http://blog.haschek.solutions/2016/06/19/austrian_passwords/"/>
+    <id>http://blog.haschek.solutions/2016/06/19/austrian_passwords/</id>
+    <published>2016-06-19T08:17:40.000Z</published>
+    <updated>2016-06-19T21:26:07.845Z</updated>
     
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, the published hashes can be cracked with ease by anyone with an &lt;a href=&quot;https://hashcat.net/oclhashcat/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hashcat&lt;/a&gt; installation.&lt;/p&gt;
+&lt;h1 id=&quot;Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot;&gt;&lt;a href=&quot;#Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot; class=&quot;headerlink&quot; title=&quot;Check if your email address was in the leak: LinkedIn LeakChecker&quot;&gt;&lt;/a&gt;Check if your email address was in the leak: &lt;a href=&quot;https://linkedincheck.haschek.solutions/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;LinkedIn LeakChecker&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;What does the hack mean for Austrians and their passwords?&lt;/p&gt;
+&lt;h2 id=&quot;Hard-facts&quot;&gt;&lt;a href=&quot;#Hard-facts&quot; class=&quot;headerlink&quot; title=&quot;Hard facts&quot;&gt;&lt;/a&gt;Hard facts&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;There were &lt;code&gt;105.386&lt;/code&gt; accounts with an email address that ended in &lt;strong&gt;.at&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;In the datadump there were &lt;code&gt;76.344&lt;/code&gt; sha1-hashed &lt;strong&gt;passwords&lt;/strong&gt; from those accounts&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;42.980&lt;/code&gt; (67%) of these passwords can be &lt;strong&gt;cracked in under 1 hour&lt;/strong&gt; on consumer hardware&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;1.011&lt;/code&gt; accounts were &lt;strong&gt;government accounts&lt;/strong&gt; (ending with gv.at). This includes military&lt;/li&gt;
+&lt;li&gt;Almost &lt;code&gt;20.000&lt;/code&gt; of the compromised accounts were &lt;strong&gt;GMX&lt;/strong&gt; addresses&lt;/li&gt;
+&lt;li&gt;LinkedIn didn’t salt the passwords. This fact makes this leak much more dangerous&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Let’s-look-a-little-closer&quot;&gt;&lt;a href=&quot;#Let’s-look-a-little-closer&quot; class=&quot;headerlink&quot; title=&quot;Let’s look a little closer&quot;&gt;&lt;/a&gt;Let’s look a little closer&lt;/h2&gt;&lt;p&gt;These (partial) words and numbers are in most passwords&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/1dc457fbef.jpg&quot; alt=&quot;word cloud of most occuring password parts&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In detail here the most common passwords and how many times they were found in the leak. Be aware that these are just from the 42.000 weak passwords in the database. The real good passwords don’t show up here.&lt;br&gt;&lt;img src=&quot;https://www.pictshare.net/aeee0d9a74.png&quot; alt=&quot;Most common passwords&quot;&gt;&lt;/p&gt;
+&lt;p&gt;So the most used passwords were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;123456&lt;/li&gt;
+&lt;li&gt;linkedin&lt;/li&gt;
+&lt;li&gt;michael&lt;/li&gt;
+&lt;li&gt;111111&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The most common passwords by austrian accounts as a round dendrogram.&lt;br&gt;&lt;img src=&quot;https://www.pictshare.net/db334e6bd4.png&quot; alt=&quot;round dendrogram of the most common passwords&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Where-do-these-accounts-come-from&quot;&gt;&lt;a href=&quot;#Where-do-these-accounts-come-from&quot; class=&quot;headerlink&quot; title=&quot;Where do these accounts come from?&quot;&gt;&lt;/a&gt;Where do these accounts come from?&lt;/h2&gt;&lt;p&gt;When we look at the email providers we can see GMX as the most common provider for people with weak passwords with 13239 accounts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/330e6d0ef9.png&quot; alt=&quot;Provider graph&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Where-do-we-go-from-here&quot;&gt;&lt;a href=&quot;#Where-do-we-go-from-here&quot; class=&quot;headerlink&quot; title=&quot;Where do we go from here&quot;&gt;&lt;/a&gt;Where do we go from here&lt;/h2&gt;&lt;p&gt;Since 67% of the analyzed passwords can be considered as weak passwords we have to ask ourselves what are good passwords.&lt;/p&gt;
+&lt;p&gt;According to Edward Snowden, phrases are good passwords:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yzGzB-yYKcc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Or you can make the XKCD approach:&lt;br&gt;&lt;img src=&quot;http://imgs.xkcd.com/comics/password_strength.png&quot; alt=&quot;XKCD on password strength&quot;&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, the published hashes can be c
     
     </summary>
     
+    
+      <category term="austria" scheme="http://blog.haschek.solutions/tags/austria/"/>
+    
+      <category term="passwords" scheme="http://blog.haschek.solutions/tags/passwords/"/>
+    
+      <category term="security" scheme="http://blog.haschek.solutions/tags/security/"/>
     
   </entry>
   
