@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.haschek.solutions/"/>
-  <updated>2016-06-20T13:08:16.849Z</updated>
+  <updated>2016-06-20T14:14:39.129Z</updated>
   <id>http://blog.haschek.solutions/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://blog.haschek.solutions/2016/06/19/austrian_passwords/"/>
     <id>http://blog.haschek.solutions/2016/06/19/austrian_passwords/</id>
     <published>2016-06-19T08:17:40.000Z</published>
-    <updated>2016-06-20T13:08:16.849Z</updated>
+    <updated>2016-06-20T14:14:39.129Z</updated>
     
-    <content type="html">&lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, all weak passwords must be considered compromised.&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/1dc457fbef.jpg&quot; alt=&quot;word cloud of most occuring password parts&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, all weak passwords must be considered compromised.&lt;/p&gt;
 &lt;h1 id=&quot;Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot;&gt;&lt;a href=&quot;#Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot; class=&quot;headerlink&quot; title=&quot;Check if your email address was in the leak: LinkedIn LeakChecker&quot;&gt;&lt;/a&gt;Check if your email address was in the leak: &lt;a href=&quot;https://linkedincheck.haschek.solutions/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;LinkedIn LeakChecker&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;What does the hack mean for Austrians and their passwords?&lt;/p&gt;
 &lt;h2 id=&quot;Hard-facts&quot;&gt;&lt;a href=&quot;#Hard-facts&quot; class=&quot;headerlink&quot; title=&quot;Hard facts&quot;&gt;&lt;/a&gt;Hard facts&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;There were &lt;code&gt;105.386&lt;/code&gt; accounts with an email address that ended in &lt;strong&gt;.at&lt;/strong&gt;&lt;/li&gt;
@@ -35,7 +36,6 @@
 &lt;h2 id=&quot;Where-do-these-accounts-come-from&quot;&gt;&lt;a href=&quot;#Where-do-these-accounts-come-from&quot; class=&quot;headerlink&quot; title=&quot;Where do these accounts come from?&quot;&gt;&lt;/a&gt;Where do these accounts come from?&lt;/h2&gt;&lt;p&gt;When we look at the email providers we can see GMX as the most common provider for people with weak passwords with 13239 accounts.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/330e6d0ef9.png&quot; alt=&quot;Provider graph&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;Let’s-look-a-little-closer-at-the-passwords&quot;&gt;&lt;a href=&quot;#Let’s-look-a-little-closer-at-the-passwords&quot; class=&quot;headerlink&quot; title=&quot;Let’s look a little closer at the passwords&quot;&gt;&lt;/a&gt;Let’s look a little closer at the passwords&lt;/h2&gt;&lt;p&gt;These (partial) words and numbers are in most passwords&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/1dc457fbef.jpg&quot; alt=&quot;word cloud of most occuring password parts&quot;&gt;&lt;/p&gt;
 &lt;p&gt;In detail here the most common passwords and how many times they were found in the leak. Be aware that these are just from the 42.000 weak passwords in the database. The real good passwords don’t show up here.&lt;br&gt;&lt;img src=&quot;https://www.pictshare.net/aeee0d9a74.png&quot; alt=&quot;Most common passwords&quot;&gt;&lt;/p&gt;
 &lt;p&gt;So the most used passwords were:&lt;/p&gt;
 &lt;ul&gt;
@@ -54,7 +54,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, all weak passwords must be co
+      &lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/1dc457fbef.jpg&quot; alt=&quot;word cloud of most occuring password parts&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The LinedIn hack was a big c
     
     </summary>
     
