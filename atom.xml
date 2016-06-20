@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.haschek.solutions/"/>
-  <updated>2016-06-19T21:35:49.035Z</updated>
+  <updated>2016-06-20T13:03:37.624Z</updated>
   <id>http://blog.haschek.solutions/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://blog.haschek.solutions/2016/06/19/austrian_passwords/"/>
     <id>http://blog.haschek.solutions/2016/06/19/austrian_passwords/</id>
     <published>2016-06-19T08:17:40.000Z</published>
-    <updated>2016-06-19T21:35:49.035Z</updated>
+    <updated>2016-06-20T13:03:37.624Z</updated>
     
-    <content type="html">&lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, the published hashes can be cracked with ease by anyone with an &lt;a href=&quot;https://hashcat.net/oclhashcat/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hashcat&lt;/a&gt; installation.&lt;/p&gt;
+    <content type="html">&lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, all weak passwords must be considered compromised.&lt;/p&gt;
 &lt;h1 id=&quot;Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot;&gt;&lt;a href=&quot;#Check-if-your-email-address-was-in-the-leak-LinkedIn-LeakChecker&quot; class=&quot;headerlink&quot; title=&quot;Check if your email address was in the leak: LinkedIn LeakChecker&quot;&gt;&lt;/a&gt;Check if your email address was in the leak: &lt;a href=&quot;https://linkedincheck.haschek.solutions/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;LinkedIn LeakChecker&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;What does the hack mean for Austrians and their passwords?&lt;/p&gt;
 &lt;h2 id=&quot;Hard-facts&quot;&gt;&lt;a href=&quot;#Hard-facts&quot; class=&quot;headerlink&quot; title=&quot;Hard facts&quot;&gt;&lt;/a&gt;Hard facts&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;There were &lt;code&gt;105.386&lt;/code&gt; accounts with an email address that ended in &lt;strong&gt;.at&lt;/strong&gt;&lt;/li&gt;
@@ -50,11 +50,11 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yzGzB-yYKcc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Or you can make the XKCD approach:&lt;br&gt;&lt;img src=&quot;https://imgs.xkcd.com/comics/password_strength.png&quot; alt=&quot;XKCD on password strength&quot;&gt;&lt;/p&gt;
-</content>
+&lt;h1 id=&quot;If-your-password-is-something-that-can-be-found-in-a-dictionary-or-only-consists-of-numbers-Change-it-and-never-use-the-old-one-again&quot;&gt;&lt;a href=&quot;#If-your-password-is-something-that-can-be-found-in-a-dictionary-or-only-consists-of-numbers-Change-it-and-never-use-the-old-one-again&quot; class=&quot;headerlink&quot; title=&quot;If your password is something that can be found in a dictionary or only consists of numbers: Change it and never use the old one again&quot;&gt;&lt;/a&gt;If your password is something that can be found in a dictionary or only consists of numbers: Change it and never use the old one again&lt;/h1&gt;</content>
     
     <summary type="html">
     
-      &lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, the published hashes can be c
+      &lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, all weak passwords must be co
     
     </summary>
     
