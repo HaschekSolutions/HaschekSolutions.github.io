@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.haschek.solutions/"/>
-  <updated>2016-08-17T09:27:05.000Z</updated>
+  <updated>2016-08-17T09:30:38.000Z</updated>
   <id>http://blog.haschek.solutions/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Socialcube 2.0 has landed</title>
-    <link href="http://blog.haschek.solutions/2016/07/15/socialcube-2.0/"/>
-    <id>http://blog.haschek.solutions/2016/07/15/socialcube-2.0/</id>
-    <published>2016-07-15T11:14:40.000Z</published>
-    <updated>2016-08-17T09:27:05.000Z</updated>
+    <link href="http://blog.haschek.solutions/2016/08/17/socialcube-2.0/"/>
+    <id>http://blog.haschek.solutions/2016/08/17/socialcube-2.0/</id>
+    <published>2016-08-17T11:37:00.000Z</published>
+    <updated>2016-08-17T09:30:38.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/d148d136e5.jpg&quot; alt=&quot;Socialcube 2.0 is here&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Today we’ve reached a big milestone by releasing Socialcube version 2.0.&lt;br&gt;We’d like to thank everyone who sent us feedback on how to improve the platform and how to reproduce bugs.&lt;br&gt;Also you can follow us on Twitter so you won’t miss any updates: &lt;a href=&quot;https://twitter.com/socialcube_stat&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://twitter.com/socialcube_stat&lt;/a&gt;&lt;/p&gt;
