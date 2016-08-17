@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.haschek.solutions/"/>
-  <updated>2016-06-20T14:14:39.129Z</updated>
+  <updated>2016-08-17T08:37:33.000Z</updated>
   <id>http://blog.haschek.solutions/</id>
   
   <author>
@@ -16,11 +16,89 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Socialcube 2.0 has landed</title>
+    <link href="http://blog.haschek.solutions/2016/07/15/socialcube-2.0/"/>
+    <id>http://blog.haschek.solutions/2016/07/15/socialcube-2.0/</id>
+    <published>2016-07-15T11:14:40.000Z</published>
+    <updated>2016-08-17T08:37:33.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.pictshare.net/d148d136e5.jpg&quot; alt=&quot;Socialcube 2.0 is here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Today we’ve reached a big milestone by releasing Socialcube version 2.0.&lt;br&gt;We’d like to thank everyone who sent us feedback on how to improve the platform and how to reproduce bugs.&lt;br&gt;Also you can follow us on Twitter so you won’t miss any updates: &lt;a href=&quot;https://twitter.com/socialcube_stat&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://twitter.com/socialcube_stat&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Changelog-Socialcube-2-0&quot;&gt;&lt;a href=&quot;#Changelog-Socialcube-2-0&quot; class=&quot;headerlink&quot; title=&quot;Changelog Socialcube 2.0&quot;&gt;&lt;/a&gt;Changelog Socialcube 2.0&lt;/h1&gt;&lt;h2 id=&quot;New-features&quot;&gt;&lt;a href=&quot;#New-features&quot; class=&quot;headerlink&quot; title=&quot;New features&quot;&gt;&lt;/a&gt;New features&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GradeLink API&lt;/strong&gt;. This API got much attention in the media and is now finally ready. It allows developers to add Socialcube integration into their apps so they can reward players for academic achievements&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;export&lt;/strong&gt; function for courses (Excel compatible CSV only at the moment)&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;institution types&lt;/strong&gt; (Private, Educational institution, Nonprofit organization, Corporate/Startup). This means also for the first time private users can create a Socialcube account. Parents can use it to reward their kids with XP for house work. &lt;a href=&quot;https://www.socialcube.net/plans&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;[more]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;archiving courses&lt;/strong&gt; function. Teachers can now archive courses. Archived courses are considered closed, settings can’t be changed, XP can’t be given&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;notification system&lt;/strong&gt;. You can get notifications for events like “received XP”, “student joined course”, etc. configure it on the &lt;a href=&quot;https://www.socialcube.net/settings&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;settings&lt;/a&gt; page&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;cubes to code&lt;/strong&gt; and &lt;strong&gt;code to cubes&lt;/strong&gt; function. This allows users to send cubes to one another or to find geocache-like codes which can be converted to cubes&lt;/li&gt;
+&lt;li&gt;Added a &lt;strong&gt;new game&lt;/strong&gt;: Hackits. You can solve Password-riddles and earn Cubes for every solved level&lt;/li&gt;
+&lt;li&gt;Users can now be in &lt;strong&gt;multiple institutions&lt;/strong&gt;. Also users can have different user types in different institutions so a teacher in one institution can be the student in another&lt;/li&gt;
+&lt;li&gt;Teachers can now define &lt;strong&gt;individual grading spectrums&lt;/strong&gt; with detailed percentages for each grade&lt;/li&gt;
+&lt;li&gt;Added grade “Ungraded” for students who’s XP are under the lowest defined grade&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;language&lt;/strong&gt; can now be changed via the &lt;a href=&quot;https://www.socialcube.net/settings&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;settings&lt;/a&gt; page (only english and german for now)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Updated-features&quot;&gt;&lt;a href=&quot;#Updated-features&quot; class=&quot;headerlink&quot; title=&quot;Updated features&quot;&gt;&lt;/a&gt;Updated features&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Teachers can now &lt;strong&gt;select all students&lt;/strong&gt; when giving XP&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;institution log&lt;/strong&gt; where institution admins can see who joined their institution&lt;/li&gt;
+&lt;li&gt;Added more features for &lt;strong&gt;institution admins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;alternative xp&lt;/strong&gt; field is now working properly&lt;/li&gt;
+&lt;li&gt;Teachers can now give XP easier by switching between students with the “TAB” key (added tabindex)&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;changelog&lt;/strong&gt; will now be shown via twitter iframe from our &lt;a href=&quot;https://www.twitter.com/socialcube_stat&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;official Twitter account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Teachers can now set an &lt;strong&gt;XP multiplier&lt;/strong&gt; for each student. This is important for special needs schools and for teachers who want to reward students with “double XP weeks” or similar&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;crypto currencies&lt;/strong&gt; to the &lt;a href=&quot;https://www.socialcube.net/games/stock&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Stock game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The module &lt;strong&gt;Cubes&lt;/strong&gt; is now an integrated part of Socialcube and can’t be disabled by institution admins anymore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Design and font&lt;/strong&gt; improvements&lt;/li&gt;
+&lt;li&gt;Grading details (XP log and Graphs) are now hidden by default and can be shown with a button click. This makes the grading overview much cleaner for teachers&lt;/li&gt;
+&lt;li&gt;Fixed a bug with the XP bars&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Security-improvements&quot;&gt;&lt;a href=&quot;#Security-improvements&quot; class=&quot;headerlink&quot; title=&quot;Security improvements&quot;&gt;&lt;/a&gt;Security improvements&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;All uploaded files (eg. pdfs you attach to assignments) are now fully &lt;strong&gt;encrypted&lt;/strong&gt; on our servers and get decrypted just before a user downloads them. After the download the decrypted temp file is deleted. If you choose to delete your user account from Socialcube, part of the decryption key is lost and the file you uploaded won’t be usable by anyone&lt;/li&gt;
+&lt;li&gt;Implemented &lt;a href=&quot;https://en.wikipedia.org/wiki/Brute-force_attack&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Bruteforce&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/SQL_injection&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;SQL injection&lt;/a&gt; recognition system (&lt;strong&gt;Socialcube IDS&lt;/strong&gt;). If someone tries to hack your account by bruteforce or SQL injections the server will block these attempts without them realizing&lt;/li&gt;
+&lt;li&gt;Added &lt;strong&gt;token-based login&lt;/strong&gt; system. You can now see which devices are logged in your account and you can revoke tokens. This gives you more control over your account&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Upcoming-features&quot;&gt;&lt;a href=&quot;#Upcoming-features&quot; class=&quot;headerlink&quot; title=&quot;Upcoming features&quot;&gt;&lt;/a&gt;Upcoming features&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Achievements&lt;/li&gt;
+&lt;li&gt;Report cards&lt;/li&gt;
+&lt;li&gt;Course export to PDF&lt;/li&gt;
+&lt;li&gt;Penny auction system with cubes&lt;/li&gt;
+&lt;li&gt;LDAP login system&lt;/li&gt;
+&lt;li&gt;eduGAIN login system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Technical-info-for-geeks&quot;&gt;&lt;a href=&quot;#Technical-info-for-geeks&quot; class=&quot;headerlink&quot; title=&quot;Technical info for geeks&quot;&gt;&lt;/a&gt;Technical info for geeks&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;All passwords in our databases are sha512 hashed and salted with multiple dynamic and static salts&lt;/li&gt;
+&lt;li&gt;We will soon move to a system where storing passwords in our database or on our servers is not necessary anymore&lt;/li&gt;
+&lt;li&gt;The file encryption system for all uploaded files uses AES256&lt;/li&gt;
+&lt;li&gt;We switched from Apache to nginx and had notable performance improvements&lt;/li&gt;
+&lt;li&gt;Socialcube runs now on PHP 7. Until now it ran on PHP 5.4&lt;/li&gt;
+&lt;li&gt;For error reporting and performance measurement we use &lt;a href=&quot;https://influxdata.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;InfluxDB&lt;/a&gt; as a UDP Server wit a &lt;a href=&quot;http://grafana.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Grafana&lt;/a&gt; dashboard&lt;/li&gt;
+&lt;li&gt;Socialcube has been reprogrammed to be much more scalable. Frontends now share uploaded data (encrypted) so we can now handle a much heavier load&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;What’s-next&quot;&gt;&lt;a href=&quot;#What’s-next&quot; class=&quot;headerlink&quot; title=&quot;What’s next?&quot;&gt;&lt;/a&gt;What’s next?&lt;/h1&gt;&lt;p&gt;Not only are we working on the features listed on “Upcoming features” (above) but due to public demand we’ll be also creating tutorials and a help page where you can read about features and learn how to use them.&lt;br&gt;Our initial goal was to make Socialcube simple enough that it didn’t need a help page but with every update we get new awesome features and we don’t want our users to be overwhelmed.&lt;/p&gt;
+&lt;h1 id=&quot;We-need-your-help-making-Socialcube-even-better&quot;&gt;&lt;a href=&quot;#We-need-your-help-making-Socialcube-even-better&quot; class=&quot;headerlink&quot; title=&quot;We need your help making Socialcube even better&quot;&gt;&lt;/a&gt;We need your help making Socialcube even better&lt;/h1&gt;&lt;p&gt;If you found a bug or have a wish for a feature, you can &lt;a href=&quot;https://gitreports.com/issue/chrisiaut/socialcube_help&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;report it here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who helped making this release possible and giving us hints on how to improve the platform!&lt;/p&gt;
+&lt;p&gt;Enjoy this video animation of 600 days of coding with 259 commits&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8oubPAOnJoM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.pictshare.net/d148d136e5.jpg&quot; alt=&quot;Socialcube 2.0 is here&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Today we’ve reached a big milestone by releasing 
+    
+    </summary>
+    
+    
+      <category term="socialcube" scheme="http://blog.haschek.solutions/tags/socialcube/"/>
+    
+      <category term="elearning" scheme="http://blog.haschek.solutions/tags/elearning/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Austrian password mentality</title>
     <link href="http://blog.haschek.solutions/2016/06/19/austrian_passwords/"/>
     <id>http://blog.haschek.solutions/2016/06/19/austrian_passwords/</id>
     <published>2016-06-19T08:17:40.000Z</published>
-    <updated>2016-06-20T14:14:39.129Z</updated>
+    <updated>2016-06-20T14:14:39.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/1dc457fbef.jpg&quot; alt=&quot;word cloud of most occuring password parts&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The LinedIn hack was a big catastrophy not only to LinkedIn. Since the site failed to salt their passwords, all weak passwords must be considered compromised.&lt;/p&gt;
