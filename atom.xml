@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.haschek.solutions/"/>
-  <updated>2016-08-17T09:30:38.000Z</updated>
+  <updated>2016-08-26T22:24:47.000Z</updated>
   <id>http://blog.haschek.solutions/</id>
   
   <author>
@@ -14,6 +14,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WEGA is now part of Socialcube</title>
+    <link href="http://blog.haschek.solutions/2016/08/26/wega-now-part-of-socialcube/"/>
+    <id>http://blog.haschek.solutions/2016/08/26/wega-now-part-of-socialcube/</id>
+    <published>2016-08-26T11:37:00.000Z</published>
+    <updated>2016-08-26T22:24:47.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/4c00fd47d9.jpg&quot; alt=&quot;WEGA Screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Less than two weeks ago we released the &lt;a href=&quot;https://blog.haschek.solutions/2016/08/17/socialcube-2.0/&quot;&gt;biggest update&lt;/a&gt; to Socialcube since it’s launch in late 2014, now we present you another awesome feature:&lt;/p&gt;
+&lt;h1 id=&quot;WEGA-is-now-part-of-Socialcube&quot;&gt;&lt;a href=&quot;#WEGA-is-now-part-of-Socialcube&quot; class=&quot;headerlink&quot; title=&quot;WEGA is now part of Socialcube&quot;&gt;&lt;/a&gt;WEGA is now part of Socialcube&lt;/h1&gt;&lt;h2 id=&quot;What-is-WEGA&quot;&gt;&lt;a href=&quot;#What-is-WEGA&quot; class=&quot;headerlink&quot; title=&quot;What is WEGA?&quot;&gt;&lt;/a&gt;What is WEGA?&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://www.pictshare.net/95874a8906.jpg&quot; style=&quot;float:right;&quot;&gt;WEGA is a simple, DNS based web- and adfiltering solution that can be set up in under 2 minutes and automatically protects your PC or even your whole network from threats or annoyances on the web.&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&quot;http://help.socialcube.net/en/wega_webfilter.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;set it up easily&lt;/a&gt; via &lt;a href=&quot;https://www.socialcube.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Socialcube&lt;/a&gt; and select which categories of the web you’d like to block. You can also specify a white- and blacklist so all websites you need will still work.&lt;/p&gt;
+&lt;h2 id=&quot;To-celebrate-our-new-milestone-WEGA-will-be-free-until-15th-of-September&quot;&gt;&lt;a href=&quot;#To-celebrate-our-new-milestone-WEGA-will-be-free-until-15th-of-September&quot; class=&quot;headerlink&quot; title=&quot;To celebrate our new milestone, WEGA will be free until 15th of September!&quot;&gt;&lt;/a&gt;To celebrate our new milestone, WEGA will be free until 15th of September!&lt;/h2&gt;&lt;p&gt;After 15th of September the price of WEGA &lt;a href=&quot;https://www.socialcube.net/plans&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;will depend on the institution type&lt;/a&gt; and goes from 15€ per year (for private accounts) to 200€ per year (for educational institutions).&lt;br&gt;If you haven’t already, &lt;a href=&quot;https://www.socialcube.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;create your Socialcube account&lt;/a&gt; now.&lt;/p&gt;
+&lt;h1 id=&quot;Why-should-I-use-WEGA&quot;&gt;&lt;a href=&quot;#Why-should-I-use-WEGA&quot; class=&quot;headerlink&quot; title=&quot;Why should I use WEGA?&quot;&gt;&lt;/a&gt;Why should I use WEGA?&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;It’s easy and fast to set up, &lt;a href=&quot;http://help.socialcube.net/en/setup.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;check out our Setup guide&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There is a filter category for many bad things, including &lt;strong&gt;Windows 10 spying features&lt;/strong&gt;. Just select the “Windows 10 spying” category and your Windows 10 won’t be able to spy on you anymore.&lt;/li&gt;
+&lt;li&gt;It Can protect your devices from ads, malware, botnets and other nasty stuff on the internet.&lt;/li&gt;
+&lt;li&gt;If set up on your home router, all devices in your network will be protected, even smartphones, printers and smart TV’s.&lt;/li&gt;
+&lt;li&gt;WEGA has awesome analytic features so you can keep an eye on the requests your computers make.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Q-A&quot;&gt;&lt;a href=&quot;#Q-A&quot; class=&quot;headerlink&quot; title=&quot;Q/A&quot;&gt;&lt;/a&gt;Q/A&lt;/h2&gt;&lt;h3 id=&quot;Q-Can-I-use-it-on-just-one-Computer-in-my-home&quot;&gt;&lt;a href=&quot;#Q-Can-I-use-it-on-just-one-Computer-in-my-home&quot; class=&quot;headerlink&quot; title=&quot;Q: Can I use it on just one Computer in my home?&quot;&gt;&lt;/a&gt;Q: Can I use it on just one Computer in my home?&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Absolutely, WEGA can be used by whole networks or individual computers. Just follow the &lt;a href=&quot;http://help.socialcube.net/en/setup.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;setup guide&lt;/a&gt; for the devices you want to use it on.&lt;/p&gt;
+&lt;h3 id=&quot;Q-Can-I-use-it-as-an-Adblocker-on-my-smartphone&quot;&gt;&lt;a href=&quot;#Q-Can-I-use-it-as-an-Adblocker-on-my-smartphone&quot; class=&quot;headerlink&quot; title=&quot;Q: Can I use it as an Adblocker on my smartphone?&quot;&gt;&lt;/a&gt;Q: Can I use it as an Adblocker on my smartphone?&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Yes! If you select the “Ads and tracking” category, your device will be free of ads. This also means faster page loads and less traffic on your device.&lt;/p&gt;
+&lt;h3 id=&quot;Q-After-15th-of-September-are-there-any-usage-limitations&quot;&gt;&lt;a href=&quot;#Q-After-15th-of-September-are-there-any-usage-limitations&quot; class=&quot;headerlink&quot; title=&quot;Q: After 15th of September, are there any usage limitations?&quot;&gt;&lt;/a&gt;Q: After 15th of September, are there any usage limitations?&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; No, there is no threshold or limit where you are blocked or slowed down as long as it’s not a volume of connections we could consider as an attack on our infrastructure.&lt;/p&gt;
+&lt;h3 id=&quot;Q-Is-my-data-safe&quot;&gt;&lt;a href=&quot;#Q-Is-my-data-safe&quot; class=&quot;headerlink&quot; title=&quot;Q: Is my data safe?&quot;&gt;&lt;/a&gt;Q: Is my data safe?&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Socialcube was built from the ground up with security and privacy in mind. In our &lt;a href=&quot;https://blog.haschek.solutions/2016/08/17/socialcube-2.0/&quot;&gt;last blog post&lt;/a&gt; we explained how we implemented encryption and hashing to protect your data.&lt;br&gt;Also the data from the webfilter is never on the Socialcube servers and individual users can’t be tracked.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://www.pictshare.net/4c00fd47d9.jpg&quot; alt=&quot;WEGA Screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Less than two weeks ago we released the &lt;a href=&quot;https:
+    
+    </summary>
+    
+    
+      <category term="socialcube" scheme="http://blog.haschek.solutions/tags/socialcube/"/>
+    
+      <category term="elearning" scheme="http://blog.haschek.solutions/tags/elearning/"/>
+    
+      <category term="webfilter" scheme="http://blog.haschek.solutions/tags/webfilter/"/>
+    
+      <category term="wega" scheme="http://blog.haschek.solutions/tags/wega/"/>
+    
+  </entry>
   
   <entry>
     <title>Socialcube 2.0 has landed</title>
